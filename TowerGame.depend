@@ -1,0 +1,3504 @@
+# depslib dependency file v1.0
+1516220105 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\allegro-5\tutorial\task_1_ans.c
+	<stdio.h>
+	<allegro5/allegro.h>
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1372629528 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alplatf.h
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alunix.h
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\color.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\path.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1372628283 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\blender.h
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\config.h
+	"allegro5/file.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\error.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1368969907 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\fullscreen_mode.h
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\keycodes.h
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\memory.h
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\monitor.h
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\timer.h
+	"allegro5/base.h"
+
+1362327500 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\alcompat.h
+
+1517887577 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\mainwindow.cpp
+	"MainWindow.h"
+	<iostream>
+
+1362327499 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_image.h
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1362327499 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1516721451 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1516805555 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\level1.h
+	<stdio.h>
+	<string.h>
+	<string>
+
+1518576592 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1518075206 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\level.cpp
+	"Level.h"
+
+1517887552 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\mainwindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+
+1520703308 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1520543703 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\monster.cpp
+	"Monster.h"
+
+1516892167 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\blackdragon.h
+	"Monster.h"
+
+1517245227 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\blackdragon.cpp
+	"BlackDragon.h"
+
+1517245069 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\claw.cpp
+	"Claw.h"
+
+1516892740 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\claw.h
+	"Monster.h"
+
+1517283930 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\eagle.h
+	"Monster.h"
+
+1517245225 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\reddragon.cpp
+	"RedDragon.h"
+
+1516892754 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\reddragon.h
+	"Monster.h"
+
+1517283935 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\eagle.cpp
+	"Eagle.h"
+
+1520718438 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\menu.cpp
+	"Menu.h"
+
+1520715856 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518575501 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\tower.cpp
+	"Tower.h"
+
+1520703299 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1518072422 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\arcane.cpp
+	"Arcane.h"
+
+1518095861 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\arcane.h
+	"Tower.h"
+
+1518072286 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\archer.cpp
+	"Archer.h"
+
+1518072466 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\canon.cpp
+	"Canon.h"
+
+1518072273 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\poison.cpp
+	"Poison.h"
+
+1518072267 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\storm.cpp
+	"Storm.h"
+
+1518095884 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\archer.h
+	"Tower.h"
+
+1518095898 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\canon.h
+	"Tower.h"
+
+1518095968 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\poison.h
+	"Tower.h"
+
+1518095962 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\storm.h
+	"Tower.h"
+
+1520703307 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+
+1519054598 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\attack.cpp
+	"Attack.h"
+
+1517035410 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\rect.h
+
+1519028627 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\circle.h
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1362327499 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1372628331 c:\users\user\desktop\2018-spring-course\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1518869065 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\demonnijia.h
+	"Monster.h"
+
+1517816327 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\demonnijia.cpp
+	"DemonNijia.h"
+
+1517576666 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\caveman.cpp
+	"CaveMan.h"
+
+1518072762 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\caveman.h
+	"Monster.h"
+
+1517561550 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\wolfknight.cpp
+	"WolfKnight.h"
+
+1518072819 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\wolfknight.h
+	"Monster.h"
+
+1518072790 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\wolf.h
+	"Monster.h"
+
+1517561515 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\wolf.cpp
+	"Wolf.h"
+
+1518577938 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1520718798 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1518073260 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\circle.cpp
+	"Circle.h"
+
+1517889012 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\main.cpp
+	"GameWindow.h"
+
+1520714859 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+
+1521172576 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+
+1518577920 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\global.h
+	<allegro5/allegro_font.h>
+
+1518577911 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\global.cpp
+	"global.h"
+
+1520703506 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\opensource_game\towergame\object.h
+	"Circle.h"
+
+1519054598 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\attack.cpp
+	"Attack.h"
+
+1520703307 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+
+1520703506 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\object.h
+	"Circle.h"
+
+1519028627 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\circle.h
+
+1518073260 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\circle.cpp
+	"Circle.h"
+
+1526017198 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+
+1526016971 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+
+1520715856 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518577920 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\global.h
+	<allegro5/allegro_font.h>
+
+1518576592 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1518072819 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\wolfknight.h
+	"Monster.h"
+
+1520703308 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518072762 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\caveman.h
+	"Monster.h"
+
+1518072790 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\wolf.h
+	"Monster.h"
+
+1518869065 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\demonnijia.h
+	"Monster.h"
+
+1518095861 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\arcane.h
+	"Tower.h"
+
+1520703299 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1518095884 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\archer.h
+	"Tower.h"
+
+1518095898 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\canon.h
+	"Tower.h"
+
+1518095968 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\poison.h
+	"Tower.h"
+
+1518095962 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\storm.h
+	"Tower.h"
+
+1520718798 c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1518577911 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\global.cpp
+	"global.h"
+
+1518075206 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\level.cpp
+	"Level.h"
+
+1517889012 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\main.cpp
+	"GameWindow.h"
+
+1520718438 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\menu.cpp
+	"Menu.h"
+
+1520543703 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\monster.cpp
+	"Monster.h"
+
+1518577938 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1526019503 source:c:\users\user\desktop\2018-spring-course\i2p(ii)-assistance\miniproject\mini-2\towergame\tower.cpp
+	"Tower.h"
+
+1519054598 source:c:\users\user\desktop\mini-2\towergame\attack.cpp
+	"Attack.h"
+
+1520703307 c:\users\user\desktop\mini-2\towergame\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+
+1520703506 c:\users\user\desktop\mini-2\towergame\object.h
+	"Circle.h"
+
+1519028627 c:\users\user\desktop\mini-2\towergame\circle.h
+
+1518073260 source:c:\users\user\desktop\mini-2\towergame\circle.cpp
+	"Circle.h"
+
+1518577911 source:c:\users\user\desktop\mini-2\towergame\global.cpp
+	"global.h"
+
+1518577920 c:\users\user\desktop\mini-2\towergame\global.h
+	<allegro5/allegro_font.h>
+
+1518075206 source:c:\users\user\desktop\mini-2\towergame\level.cpp
+	"Level.h"
+
+1518576592 c:\users\user\desktop\mini-2\towergame\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1517889012 source:c:\users\user\desktop\mini-2\towergame\main.cpp
+	"GameWindow.h"
+
+1527758954 c:\users\user\desktop\mini-2\towergame\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+
+1520715856 c:\users\user\desktop\mini-2\towergame\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518072819 c:\users\user\desktop\mini-2\towergame\wolfknight.h
+	"Monster.h"
+
+1520703308 c:\users\user\desktop\mini-2\towergame\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518072762 c:\users\user\desktop\mini-2\towergame\caveman.h
+	"Monster.h"
+
+1518072790 c:\users\user\desktop\mini-2\towergame\wolf.h
+	"Monster.h"
+
+1518869065 c:\users\user\desktop\mini-2\towergame\demonnijia.h
+	"Monster.h"
+
+1518095861 c:\users\user\desktop\mini-2\towergame\arcane.h
+	"Tower.h"
+
+1520703299 c:\users\user\desktop\mini-2\towergame\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1518095884 c:\users\user\desktop\mini-2\towergame\archer.h
+	"Tower.h"
+
+1518095898 c:\users\user\desktop\mini-2\towergame\canon.h
+	"Tower.h"
+
+1518095968 c:\users\user\desktop\mini-2\towergame\poison.h
+	"Tower.h"
+
+1518095962 c:\users\user\desktop\mini-2\towergame\storm.h
+	"Tower.h"
+
+1520718798 c:\users\user\desktop\mini-2\towergame\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1520718438 source:c:\users\user\desktop\mini-2\towergame\menu.cpp
+	"Menu.h"
+
+1520543703 source:c:\users\user\desktop\mini-2\towergame\monster.cpp
+	"Monster.h"
+
+1518577938 source:c:\users\user\desktop\mini-2\towergame\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1372629528 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alplatf.h
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\alunix.h
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\color.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\path.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1372628283 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\blender.h
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\config.h
+	"allegro5/file.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\error.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1368969907 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\fullscreen_mode.h
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\keycodes.h
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\memory.h
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\monitor.h
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\timer.h
+	"allegro5/base.h"
+
+1362327500 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\alcompat.h
+
+1362327499 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_image.h
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1372628331 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1362327499 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1362327499 d:\allegro-5.0.10-mingw-4.7.0\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1526021176 source:c:\users\user\desktop\mini-2\towergame\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+
+1526021074 source:c:\users\user\desktop\mini-2\towergame\tower.cpp
+	"Tower.h"
+
+1519054598 source:c:\users\user\desktop\mini2\towergame\attack.cpp
+	"Attack.h"
+
+1528195763 c:\users\user\desktop\mini2\towergame\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+
+1520703506 c:\users\user\desktop\mini2\towergame\object.h
+	"Circle.h"
+
+1519028627 c:\users\user\desktop\mini2\towergame\circle.h
+
+1518073260 source:c:\users\user\desktop\mini2\towergame\circle.cpp
+	"Circle.h"
+
+1526021176 source:c:\users\user\desktop\mini2\towergame\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+
+1527758954 c:\users\user\desktop\mini2\towergame\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+
+1528195747 c:\users\user\desktop\mini2\towergame\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518577920 c:\users\user\desktop\mini2\towergame\global.h
+	<allegro5/allegro_font.h>
+
+1518576592 c:\users\user\desktop\mini2\towergame\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1518072819 c:\users\user\desktop\mini2\towergame\wolfknight.h
+	"Monster.h"
+
+1528195724 c:\users\user\desktop\mini2\towergame\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518072762 c:\users\user\desktop\mini2\towergame\caveman.h
+	"Monster.h"
+
+1518072790 c:\users\user\desktop\mini2\towergame\wolf.h
+	"Monster.h"
+
+1518869065 c:\users\user\desktop\mini2\towergame\demonnijia.h
+	"Monster.h"
+
+1518095861 c:\users\user\desktop\mini2\towergame\arcane.h
+	"Tower.h"
+
+1520703299 c:\users\user\desktop\mini2\towergame\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1518095884 c:\users\user\desktop\mini2\towergame\archer.h
+	"Tower.h"
+
+1518095898 c:\users\user\desktop\mini2\towergame\canon.h
+	"Tower.h"
+
+1518095968 c:\users\user\desktop\mini2\towergame\poison.h
+	"Tower.h"
+
+1518095962 c:\users\user\desktop\mini2\towergame\storm.h
+	"Tower.h"
+
+1520718798 c:\users\user\desktop\mini2\towergame\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1518577911 source:c:\users\user\desktop\mini2\towergame\global.cpp
+	"global.h"
+
+1518075206 source:c:\users\user\desktop\mini2\towergame\level.cpp
+	"Level.h"
+
+1517889012 source:c:\users\user\desktop\mini2\towergame\main.cpp
+	"GameWindow.h"
+
+1520718438 source:c:\users\user\desktop\mini2\towergame\menu.cpp
+	"Menu.h"
+
+1520543703 source:c:\users\user\desktop\mini2\towergame\monster.cpp
+	"Monster.h"
+
+1518577938 source:c:\users\user\desktop\mini2\towergame\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1526021074 source:c:\users\user\desktop\mini2\towergame\tower.cpp
+	"Tower.h"
+
+1519054600 source:c:\users\簡佩如\desktop\pre-final\towergame\attack.cpp
+	"Attack.h"
+
+1528195764 c:\users\簡佩如\desktop\pre-final\towergame\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+
+1520703508 c:\users\簡佩如\desktop\pre-final\towergame\object.h
+	"Circle.h"
+
+1519028628 c:\users\簡佩如\desktop\pre-final\towergame\circle.h
+
+1518073262 source:c:\users\簡佩如\desktop\pre-final\towergame\circle.cpp
+	"Circle.h"
+
+1609562331 source:c:\users\簡佩如\desktop\pre-final\towergame\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+
+1609562274 c:\users\簡佩如\desktop\pre-final\towergame\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+
+1528195748 c:\users\簡佩如\desktop\pre-final\towergame\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1609562477 c:\users\簡佩如\desktop\pre-final\towergame\global.h
+	<allegro5/allegro_font.h>
+
+1518576594 c:\users\簡佩如\desktop\pre-final\towergame\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1518072820 c:\users\簡佩如\desktop\pre-final\towergame\wolfknight.h
+	"Monster.h"
+
+1528195726 c:\users\簡佩如\desktop\pre-final\towergame\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1518072764 c:\users\簡佩如\desktop\pre-final\towergame\caveman.h
+	"Monster.h"
+
+1518072792 c:\users\簡佩如\desktop\pre-final\towergame\wolf.h
+	"Monster.h"
+
+1518869066 c:\users\簡佩如\desktop\pre-final\towergame\demonnijia.h
+	"Monster.h"
+
+1518095862 c:\users\簡佩如\desktop\pre-final\towergame\arcane.h
+	"Tower.h"
+
+1520703300 c:\users\簡佩如\desktop\pre-final\towergame\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1518095886 c:\users\簡佩如\desktop\pre-final\towergame\archer.h
+	"Tower.h"
+
+1518095900 c:\users\簡佩如\desktop\pre-final\towergame\canon.h
+	"Tower.h"
+
+1518095970 c:\users\簡佩如\desktop\pre-final\towergame\poison.h
+	"Tower.h"
+
+1518095964 c:\users\簡佩如\desktop\pre-final\towergame\storm.h
+	"Tower.h"
+
+1520718800 c:\users\簡佩如\desktop\pre-final\towergame\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1609561667 source:c:\users\簡佩如\desktop\pre-final\towergame\global.cpp
+	"global.h"
+
+1518075208 source:c:\users\簡佩如\desktop\pre-final\towergame\level.cpp
+	"Level.h"
+
+1517889014 source:c:\users\簡佩如\desktop\pre-final\towergame\main.cpp
+	"GameWindow.h"
+
+1609560008 source:c:\users\簡佩如\desktop\pre-final\towergame\menu.cpp
+	"Menu.h"
+
+1520543704 source:c:\users\簡佩如\desktop\pre-final\towergame\monster.cpp
+	"Monster.h"
+
+1609560991 source:c:\users\簡佩如\desktop\pre-final\towergame\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1609559544 source:c:\users\簡佩如\desktop\pre-final\towergame\tower.cpp
+	"Tower.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alplatf.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alandroidcfg.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\alunix.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\keycodes.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\alcompat.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final\towergame\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1519054600 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\attack.cpp
+	"Attack.h"
+
+1528195764 c:\users\簡佩如\desktop\pre-final - 複製\towergame\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alplatf.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alandroidcfg.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\alunix.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\keycodes.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\alcompat.h
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1520703508 c:\users\簡佩如\desktop\pre-final - 複製\towergame\object.h
+	"Circle.h"
+
+1519028628 c:\users\簡佩如\desktop\pre-final - 複製\towergame\circle.h
+
+1518073262 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\circle.cpp
+	"Circle.h"
+
+1609590819 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1609584589 c:\users\簡佩如\desktop\pre-final - 複製\towergame\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1609587518 c:\users\簡佩如\desktop\pre-final - 複製\towergame\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1581332430 c:\users\簡佩如\desktop\pre-final - 複製\towergame\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1609562477 c:\users\簡佩如\desktop\pre-final - 複製\towergame\global.h
+	<allegro5/allegro_font.h>
+
+1518576594 c:\users\簡佩如\desktop\pre-final - 複製\towergame\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1518072820 c:\users\簡佩如\desktop\pre-final - 複製\towergame\wolfknight.h
+	"Monster.h"
+
+1609588615 c:\users\簡佩如\desktop\pre-final - 複製\towergame\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1609587474 c:\users\簡佩如\desktop\pre-final - 複製\towergame\caveman.h
+	"Monster.h"
+
+1518072792 c:\users\簡佩如\desktop\pre-final - 複製\towergame\wolf.h
+	"Monster.h"
+
+1518869066 c:\users\簡佩如\desktop\pre-final - 複製\towergame\demonnijia.h
+	"Monster.h"
+
+1518095862 c:\users\簡佩如\desktop\pre-final - 複製\towergame\arcane.h
+	"Tower.h"
+
+1520703300 c:\users\簡佩如\desktop\pre-final - 複製\towergame\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1518095886 c:\users\簡佩如\desktop\pre-final - 複製\towergame\archer.h
+	"Tower.h"
+
+1518095900 c:\users\簡佩如\desktop\pre-final - 複製\towergame\canon.h
+	"Tower.h"
+
+1518095970 c:\users\簡佩如\desktop\pre-final - 複製\towergame\poison.h
+	"Tower.h"
+
+1518095964 c:\users\簡佩如\desktop\pre-final - 複製\towergame\storm.h
+	"Tower.h"
+
+1520718800 c:\users\簡佩如\desktop\pre-final - 複製\towergame\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1609561667 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\global.cpp
+	"global.h"
+
+1518075208 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\level.cpp
+	"Level.h"
+
+1609581326 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\main.cpp
+	"GameWindow.h"
+
+1609583895 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\menu.cpp
+	"Menu.h"
+
+1520543704 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\monster.cpp
+	"Monster.h"
+
+1609560991 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1609583883 source:c:\users\簡佩如\desktop\pre-final - 複製\towergame\tower.cpp
+	"Tower.h"
+
+1610106049 source:c:\users\user\desktop\towergame2\attack.cpp
+	"Attack.h"
+
+1610033156 c:\users\user\desktop\towergame2\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1609589314 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1609589316 c:\users\user\desktop\towergame2\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alplatf.h
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alandroidcfg.h
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\alunix.h
+
+1609589324 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1609589316 c:\users\user\desktop\towergame2\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1609589316 c:\users\user\desktop\towergame2\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1609589318 c:\users\user\desktop\towergame2\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1609589326 c:\users\user\desktop\towergame2\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\keycodes.h
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1609589320 c:\users\user\desktop\towergame2\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1609589322 c:\users\user\desktop\towergame2\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1609589314 c:\users\user\desktop\towergame2\allegro\include\allegro5\alcompat.h
+
+1609589314 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1609589316 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1609589314 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1609589238 c:\users\user\desktop\towergame2\object.h
+	"Circle.h"
+
+1609589234 c:\users\user\desktop\towergame2\circle.h
+
+1609589234 source:c:\users\user\desktop\towergame2\circle.cpp
+	"Circle.h"
+
+1610198631 source:c:\users\user\desktop\towergame2\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1610193559 c:\users\user\desktop\towergame2\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+	"Tower.h"
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1609589314 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1610129875 c:\users\user\desktop\towergame2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1609589314 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1609589316 c:\users\user\desktop\towergame2\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1610196796 c:\users\user\desktop\towergame2\global.h
+	<allegro5/allegro_font.h>
+
+1609589236 c:\users\user\desktop\towergame2\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1609832169 c:\users\user\desktop\towergame2\wolfknight.h
+	"Monster.h"
+
+1610129623 c:\users\user\desktop\towergame2\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1609832178 c:\users\user\desktop\towergame2\caveman.h
+	"Monster.h"
+
+1609832185 c:\users\user\desktop\towergame2\wolf.h
+	"Monster.h"
+
+1609832191 c:\users\user\desktop\towergame2\demonnijia.h
+	"Monster.h"
+
+1609589230 c:\users\user\desktop\towergame2\arcane.h
+	"Tower.h"
+
+1610190433 c:\users\user\desktop\towergame2\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1609589230 c:\users\user\desktop\towergame2\archer.h
+	"Tower.h"
+
+1609589232 c:\users\user\desktop\towergame2\canon.h
+	"Tower.h"
+
+1609589240 c:\users\user\desktop\towergame2\poison.h
+	"Tower.h"
+
+1609589240 c:\users\user\desktop\towergame2\storm.h
+	"Tower.h"
+
+1609589240 c:\users\user\desktop\towergame2\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1610196775 source:c:\users\user\desktop\towergame2\global.cpp
+	"global.h"
+
+1609589236 source:c:\users\user\desktop\towergame2\level.cpp
+	"Level.h"
+
+1609589238 source:c:\users\user\desktop\towergame2\main.cpp
+	"GameWindow.h"
+
+1610196775 source:c:\users\user\desktop\towergame2\menu.cpp
+	"Menu.h"
+
+1610187679 source:c:\users\user\desktop\towergame2\monster.cpp
+	"Monster.h"
+
+1609589240 source:c:\users\user\desktop\towergame2\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1610190433 source:c:\users\user\desktop\towergame2\tower.cpp
+	"Tower.h"
+
+1609603064 c:\users\user\desktop\towergame2\movableobject.cpp
+	<iostream>
+	<allegro5/allegro_font.h>
+	"menu.h"
+
+1609603025 source:c:\users\user\desktop\towergame2\movableobject.cpp
+	<iostream>
+	<allegro5/allegro_font.h>
+	"menu.h"
+
+1610143004 source:c:\users\簡佩如\desktop\towergame2\attack.cpp
+	"Attack.h"
+
+1610143006 c:\users\簡佩如\desktop\towergame2\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1610143090 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1610143092 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alplatf.h
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alandroidcfg.h
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\alunix.h
+
+1610143100 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1610143092 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1610143094 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1610143102 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\keycodes.h
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1610143096 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610143098 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1610143090 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\alcompat.h
+
+1610143092 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1610143092 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1610143090 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1610143014 c:\users\簡佩如\desktop\towergame2\object.h
+	"Circle.h"
+
+1610143008 c:\users\簡佩如\desktop\towergame2\circle.h
+
+1610143010 c:\users\簡佩如\desktop\towergame2\global.h
+	<allegro5/allegro_font.h>
+
+1610143090 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1610143008 source:c:\users\簡佩如\desktop\towergame2\circle.cpp
+	"Circle.h"
+
+1610210328 source:c:\users\簡佩如\desktop\towergame2\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1610143010 c:\users\簡佩如\desktop\towergame2\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+	"Tower.h"
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1610143090 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1610143012 c:\users\簡佩如\desktop\towergame2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1610143092 c:\users\簡佩如\desktop\towergame2\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1610143010 c:\users\簡佩如\desktop\towergame2\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1610143016 c:\users\簡佩如\desktop\towergame2\wolfknight.h
+	"Monster.h"
+
+1610143012 c:\users\簡佩如\desktop\towergame2\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1610143008 c:\users\簡佩如\desktop\towergame2\caveman.h
+	"Monster.h"
+
+1610143016 c:\users\簡佩如\desktop\towergame2\wolf.h
+	"Monster.h"
+
+1610143008 c:\users\簡佩如\desktop\towergame2\demonnijia.h
+	"Monster.h"
+
+1610143004 c:\users\簡佩如\desktop\towergame2\arcane.h
+	"Tower.h"
+
+1610143016 c:\users\簡佩如\desktop\towergame2\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1610143004 c:\users\簡佩如\desktop\towergame2\archer.h
+	"Tower.h"
+
+1610143008 c:\users\簡佩如\desktop\towergame2\canon.h
+	"Tower.h"
+
+1610143014 c:\users\簡佩如\desktop\towergame2\poison.h
+	"Tower.h"
+
+1610143014 c:\users\簡佩如\desktop\towergame2\storm.h
+	"Tower.h"
+
+1610143014 c:\users\簡佩如\desktop\towergame2\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1610143010 source:c:\users\簡佩如\desktop\towergame2\global.cpp
+	"global.h"
+
+1610143010 source:c:\users\簡佩如\desktop\towergame2\level.cpp
+	"Level.h"
+
+1610143012 source:c:\users\簡佩如\desktop\towergame2\main.cpp
+	"GameWindow.h"
+
+1610143012 source:c:\users\簡佩如\desktop\towergame2\menu.cpp
+	"Menu.h"
+
+1610143012 source:c:\users\簡佩如\desktop\towergame2\monster.cpp
+	"Monster.h"
+
+1610143014 source:c:\users\簡佩如\desktop\towergame2\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1610143014 source:c:\users\簡佩如\desktop\towergame2\tower.cpp
+	"Tower.h"
+
+1610085404 source:c:\users\user\desktop\tower game\attack.cpp
+	"Attack.h"
+
+1610085406 c:\users\user\desktop\tower game\attack.h
+	<stdio.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_audio.h>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1610085490 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1610085492 c:\users\user\desktop\tower game\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alplatf.h
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alandroidcfg.h
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\alunix.h
+
+1610085500 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1610085492 c:\users\user\desktop\tower game\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1610085494 c:\users\user\desktop\tower game\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1610085502 c:\users\user\desktop\tower game\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\keycodes.h
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1610085496 c:\users\user\desktop\tower game\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1610085498 c:\users\user\desktop\tower game\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1610085490 c:\users\user\desktop\tower game\allegro\include\allegro5\alcompat.h
+
+1610085492 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1610085492 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1610085490 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1610085414 c:\users\user\desktop\tower game\object.h
+	"Circle.h"
+
+1610085408 c:\users\user\desktop\tower game\circle.h
+
+1610085410 c:\users\user\desktop\tower game\global.h
+	<allegro5/allegro_font.h>
+
+1610085490 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1610085408 source:c:\users\user\desktop\tower game\circle.cpp
+	"Circle.h"
+
+1610448897 source:c:\users\user\desktop\tower game\gamewindow.cpp
+	"GameWindow.h"
+	"global.h"
+	<iostream>
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1610085410 c:\users\user\desktop\tower game\gamewindow.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<vector>
+	<list>
+	<time.h>
+	"Menu.h"
+	"Level.h"
+	"WolfKnight.h"
+	"CaveMan.h"
+	"Wolf.h"
+	"DemonNijia.h"
+	"Arcane.h"
+	"Archer.h"
+	"Canon.h"
+	"Poison.h"
+	"Storm.h"
+	"Attack.h"
+	"Slider.h"
+	"Tower.h"
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<math.h>
+	<stdlib.h>
+
+1610085490 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1610085412 c:\users\user\desktop\tower game\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1610085492 c:\users\user\desktop\tower game\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1610085410 c:\users\user\desktop\tower game\level.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<vector>
+	"global.h"
+
+1610085416 c:\users\user\desktop\tower game\wolfknight.h
+	"Monster.h"
+
+1610085412 c:\users\user\desktop\tower game\monster.h
+	<stdio.h>
+	<string.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<vector>
+	"Object.h"
+	"Circle.h"
+	"global.h"
+
+1610085408 c:\users\user\desktop\tower game\caveman.h
+	"Monster.h"
+
+1610085416 c:\users\user\desktop\tower game\wolf.h
+	"Monster.h"
+
+1610085408 c:\users\user\desktop\tower game\demonnijia.h
+	"Monster.h"
+
+1610085404 c:\users\user\desktop\tower game\arcane.h
+	"Tower.h"
+
+1610085416 c:\users\user\desktop\tower game\tower.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+	"Attack.h"
+	"Circle.h"
+	"Monster.h"
+	"global.h"
+
+1610085404 c:\users\user\desktop\tower game\archer.h
+	"Tower.h"
+
+1610085408 c:\users\user\desktop\tower game\canon.h
+	"Tower.h"
+
+1610085414 c:\users\user\desktop\tower game\poison.h
+	"Tower.h"
+
+1610085414 c:\users\user\desktop\tower game\storm.h
+	"Tower.h"
+
+1610085414 c:\users\user\desktop\tower game\slider.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	"Object.h"
+
+1610085410 source:c:\users\user\desktop\tower game\global.cpp
+	"global.h"
+
+1610085410 source:c:\users\user\desktop\tower game\level.cpp
+	"Level.h"
+
+1610085412 source:c:\users\user\desktop\tower game\main.cpp
+	"GameWindow.h"
+
+1610449416 source:c:\users\user\desktop\tower game\menu.cpp
+	"Menu.h"
+
+1610085412 source:c:\users\user\desktop\tower game\monster.cpp
+	"Monster.h"
+
+1610085414 source:c:\users\user\desktop\tower game\slider.cpp
+	<stdio.h>
+	<string.h>
+	"Slider.h"
+
+1610449551 source:c:\users\user\desktop\tower game\tower.cpp
+	"Tower.h"
+
